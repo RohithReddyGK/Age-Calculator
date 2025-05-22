@@ -38,7 +38,8 @@ AgeCalculator/
 
 ## 📸 Screenshot
 
-![Screenshot](Images/Age_Image.webp)
+### Age Calculator
+<img src="https://github.com/user-attachments/assets/a8bee1fc-b496-4c45-91d0-ff0c2269bf58" alt="Calculator" width="700" height="450"/>
 
 ---
 
