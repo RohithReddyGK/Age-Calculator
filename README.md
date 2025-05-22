@@ -20,12 +20,16 @@ A simple and responsive web-based **Age Calculator** built using **HTML, CSS, an
 - CSS3
 - JavaScript
 
+---
+
 ## 📁 Folder Structure
 
 AgeCalculator/
 ├── Images/
 │ └── Age_Image.webp
 └── index.html
+
+---
 
 ## 📂 How to Use
 
