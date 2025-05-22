@@ -1,5 +1,10 @@
 # Age Calculator 🧮
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![HTML](https://img.shields.io/badge/tech-HTML-orange)
+![CSS](https://img.shields.io/badge/tech-CSS-blue)
+![JavaScript](https://img.shields.io/badge/tech-JavaScript-yellow)
+
 A simple and responsive web-based **Age Calculator** built using **HTML, CSS, and JavaScript**. Users can input their date of birth (DOB) and instantly calculate their current age in **years, months, and days**.
 
 ---
